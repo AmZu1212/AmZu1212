@@ -1,5 +1,6 @@
-
+![banner1](https://github.com/user-attachments/assets/c0f9f4f2-1d64-4a8e-94eb-a5b821fcb717)
 # 😇 About Me:
+
 - 👋 Hi, I’m @AmZu1212
 - 👀 I’m interested in VR, Hardware Design, Cyber Security, Software Development, Game Dev and much more!
 - 💻 I’m working towards my Bachelor in Computer & Software Engineering.
