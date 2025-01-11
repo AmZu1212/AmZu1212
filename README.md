@@ -10,7 +10,7 @@
 
 ###
 
-# 💻 Tech Stack:
+# 💻 My Tech Stack:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="41" alt="vscode logo"  />
   <img width="20" />
