@@ -8,7 +8,7 @@
 - 📫 How to reach me:
              zuabiamir@gmail.com
 
-# 💻 Tech Stack:
+## 🌐 Socials:
 <div align="center" style="text-align: center;">
   <a href="https://www.youtube.com/@amzu1252" target="_blank" style="text-decoration: none; display: inline-block;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
@@ -19,7 +19,7 @@
   </a>
 </div>
 ###
-
+## 💻 Tech Stack:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="41" alt="vscode logo"  />
   <img width="20" />
