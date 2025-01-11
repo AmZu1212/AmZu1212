@@ -1,4 +1,4 @@
-![banner1](https://github.com/user-attachments/assets/c0f9f4f2-1d64-4a8e-94eb-a5b821fcb717)
+![banner2](https://github.com/user-attachments/assets/4b1dd3ff-2bb6-4d85-8f8f-bab8d1c6c952)
 # 😇 About Me:
 
 - 👋 Hi, I’m @AmZu1212
