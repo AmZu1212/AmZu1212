@@ -1,6 +1,5 @@
-![Top Banner](https://github.com/user-attachments/assets/3e0256b9-a383-45da-8911-1af2c53a0b93)
+![Top Banner](https://github.com/user-attachments/assets/3a8ef6ec-a930-43f2-b1e4-2b76e33d84af)
 # 😇 About Me:
-
 - 👋 Hi, I’m @AmZu1212
 - 👀 I’m interested in Networking, Hardware, Security, Software, VR, Game-Dev and much more!
 - 💻 I’m working towards my Bachelor in Computer & Software Engineering.
