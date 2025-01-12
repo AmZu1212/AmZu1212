@@ -1,5 +1,4 @@
 ![Top Banner](https://github.com/user-attachments/assets/3e0256b9-a383-45da-8911-1af2c53a0b93)
-
 # 😇 About Me:
 
 - 👋 Hi, I’m @AmZu1212
@@ -63,6 +62,5 @@
 <img src="https://raw.githubusercontent.com/AmZu1212/AmZu1212/output/snake.svg" alt="Snake animation" />
 
 ###
-
 ![Bottom Banner](https://github.com/user-attachments/assets/72a4f713-bdcc-484f-b6e5-58cd73cc404f)
 
