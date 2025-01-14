@@ -1,4 +1,5 @@
-![Top Banner](https://github.com/user-attachments/assets/3a8ef6ec-a930-43f2-b1e4-2b76e33d84af)
+![Top Banner](https://github.com/user-attachments/assets/7fda2d74-d90f-4a15-a4f0-2e73835bf580)
+
 # 😇 About Me:
 - 👋 Hi, I’m **@AmZu1212**
 - 👀 I’m interested in Networking, Hardware, Security, Software, VR, Game-Dev, and much more!
@@ -52,14 +53,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmZu1212&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/AmZu1212/AmZu1212/output/snake.svg" alt="Snake animation" />
 
 ###
-![Bottom Banner](https://github.com/user-attachments/assets/72a4f713-bdcc-484f-b6e5-58cd73cc404f)
-
+![Bottom Banner](https://github.com/user-attachments/assets/37fdd0cc-1e97-464d-82f6-6b3a6e116ac4)
