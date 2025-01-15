@@ -57,4 +57,10 @@
 <img src="https://raw.githubusercontent.com/AmZu1212/AmZu1212/output/snake.svg" alt="Snake animation" />
 
 ###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AmZu1212/count.svg" alt="Visitor Count">
+</div>
+
 ![Bottom Banner](https://github.com/user-attachments/assets/37fdd0cc-1e97-464d-82f6-6b3a6e116ac4)
+
+
