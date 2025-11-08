@@ -4,7 +4,7 @@
 - 👋 Hi, I’m **Amir Zuabi**
 - 👀 I’m interested in Networking, Hardware, Security, Software, VR, Game-Dev, and much more!
 - 💻 I’m a **Bachelor in Computer & Software Engineering**.
-- 🤝 I’m looking for **Junior roles** in the fields of **Hardware, Networking, and Software**.
+- 🤝 I’m looking for **Junior roles** in the fields of **Hardware, Networks, and Software**.
 - 📫 How to reach me:
 <div align="center" style="text-align: center;"><a href="mailto:zuabiamir@gmail.com" target="_blank" style="text-decoration: none; display: inline-block;"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /></a><a href="https://www.linkedin.com/in/amzu12/" target="_blank" style="text-decoration: none; display: inline-block;"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a></div>
 
