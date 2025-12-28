@@ -1,7 +1,7 @@
 ![Top Banner](https://github.com/user-attachments/assets/7fda2d74-d90f-4a15-a4f0-2e73835bf580)
 
 # 😇 About Me:
-- 👋 Hi, I’m **Amir Zuabi**
+- 👋 Hi, I’m **Amir**
 - 👀 I’m interested in Networking, Hardware, Security, Software, VR, Game-Dev, and much more!
 - 💻 I’m a **Bachelor in Computer & Software Engineering**.
 - 🤝 I’m looking for **Junior roles** in the fields of **Hardware, Networks, and Software**.
