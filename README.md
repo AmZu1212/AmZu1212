@@ -7,7 +7,11 @@
 - Specialized in Computer Micro-Architecture, VLSI, Computer Networks, Logic Design & Verification. 
 - 🤝 I’m looking for **Junior roles** in the fields of **Hardware, Networks, and Software Engineering**.
 - 📫 How to reach me:
-<div align="center" style="text-align: center;"><a href="mailto:zuabiamir@gmail.com" target="_blank" style="text-decoration: none; display: inline-block;"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /></a><a href="https://www.linkedin.com/in/amzu12/" target="_blank" style="text-decoration: none; display: inline-block;"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a></div>
+
+<p align="center">
+  <a href="mailto:zuabiamir@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" style="padding-bottom:4px;"></a>
+  <a href="https://www.linkedin.com/in/amzu12/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" style="padding-bottom:4px;"></a>
+</p>
 
  \* *Check My Pinned Projects Below!* \*
 ###
