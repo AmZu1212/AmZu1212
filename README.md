@@ -2,10 +2,10 @@
 
 # 😇 About Me:
 - 👋 Hi, I’m **Amir**
-- 👀 I’m interested in Networking, Hardware, Security, Software, VR, Game-Dev, and much more!
-- 💻 I’m a **Bachelor in Computer & Software Engineering**.
-- Specialized in Computer Micro-Architecture, VLSI, Computer Networks, Logic Design & Verification. 
-- 🤝 I’m looking for **Junior roles** in the fields of **Hardware, Networks, and Software Engineering**.
+- 👀 I’m interested in Networks, Hardware, Software and much more!
+- 💻 I’m a **Bachelor in Computer & Software Engineering** from the Technion.
+- 🛠️ Specialized in Logic Design & Verification, Computer Micro-Architecture, VLSI and Computer Networks.
+- 🤝 I’m looking for **Junior roles** in the fields of **Hardware/Networks/Software Engineering**.
 - 📫 How to reach me:
 
 <p align="center">
