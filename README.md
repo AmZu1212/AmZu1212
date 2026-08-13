@@ -3,7 +3,7 @@
 # 😇 About Me:
 - 👋 Hi, I’m **Amir**
 - 👀 I’m interested in Networks, Hardware, Software and much more!
-- 💻 I’m a **Bachelor in Computer & Software Engineering** from the Technion.
+- 💻 I’m a **B.Sc. in Computer & Software Engineering** from the Technion.
 - 🛠️ Specialized in Logic Design & Verification, Computer Micro-Architecture, VLSI and Computer Networks.
 - 🤝 I’m looking for **Junior roles** in the fields of **Hardware/Networks/Software Engineering**.
 - 📫 How to reach me:
