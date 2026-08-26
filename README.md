@@ -4,7 +4,7 @@
 - 👋 Hi, I’m **Amir**
 - 👀 I’m interested in Networks, Hardware, Software and much more!
 - 💻 I’m a **B.Sc. in Computer & Software Engineering** from the Technion.
-- 🛠️ Specialized in Logic Design & Verification, Computer μArchitecture, VLSI and Computer Networks.
+- 🛠️ Specialized in Logic Design & Verification, μArchitecture, VLSI and Computer Networks.
 - 🤝 I’m looking for **Junior roles** in the fields of **Hardware/Networks/Software Engineering**.
 - 📫 How to reach me:
 
